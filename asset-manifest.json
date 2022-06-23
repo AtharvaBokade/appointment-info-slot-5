@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/appointment-info-slot-5/static/css/main.329d6e82.css",
-    "main.js": "/appointment-info-slot-5/static/js/main.e898efb5.js",
+    "main.js": "/appointment-info-slot-5/static/js/main.9fbea3bf.js",
     "static/js/787.b249704f.chunk.js": "/appointment-info-slot-5/static/js/787.b249704f.chunk.js",
     "index.html": "/appointment-info-slot-5/index.html",
     "main.329d6e82.css.map": "/appointment-info-slot-5/static/css/main.329d6e82.css.map",
-    "main.e898efb5.js.map": "/appointment-info-slot-5/static/js/main.e898efb5.js.map",
+    "main.9fbea3bf.js.map": "/appointment-info-slot-5/static/js/main.9fbea3bf.js.map",
     "787.b249704f.chunk.js.map": "/appointment-info-slot-5/static/js/787.b249704f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.329d6e82.css",
-    "static/js/main.e898efb5.js"
+    "static/js/main.9fbea3bf.js"
   ]
 }
